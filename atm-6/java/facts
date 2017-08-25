@@ -1,0 +1,4 @@
+CreditCard;cardNumber:123
+CreditCard;cardNumber:234
+Pin;cardNumber:123,pinNumber:123
+Pin;cardNumber:234,pinNumber:234

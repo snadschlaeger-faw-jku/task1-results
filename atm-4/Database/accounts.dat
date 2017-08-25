@@ -1,0 +1,3 @@
+account_number:123456789 card_number:123 pin_number:1234 balance:1000
+account_number:987654321 card_number:321 pin_number:4321 balance:2000
+account_number:246813579 card_number:456 pin_number:4567 balance:3000
